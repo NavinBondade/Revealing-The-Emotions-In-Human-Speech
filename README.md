@@ -29,16 +29,14 @@
 <p>All the layers use RELU as an activation function except the last dense layer that uses the softmax activation function that transforms the previous layer output between 0 and 1, so that they can be interpreted as probabilities. For regularization and avoiding overfitting of the model batch normalization and dropout layers are used in the model.<p>
 <h2>Model Training</h2>   
 <img src="https://github.com/NavinBondade/Revealing-The-Emotions-In-Human-Speech/blob/main/Graphs%20and%20Pictures/loss-accuracy.png">
-<p>The model was get trained for 33 epochs. During training, the model uses Stochastic Gradient Descent as an optimizer with a learning rate of 0.001 and momentum of 0.9 for optimally performing backpropagation. The model uses categorical cross-entropy as the loss function to penalize the model more when it makes a false prediction.</p>
+<p>The model was get trained for 33 epochs. During training, the model uses Stochastic Gradient Descent as an optimizer with a learning rate of 0.001 and momentum of 0.9 The model uses categorical cross-entropy as the loss function to penalize the model more when it makes a false prediction.</p>
 <h2>Model Evaluation</h2>
 <ul>
-  <li><b>Training Data Accuracy: 90%</b></li>
-  <li><b>Training Data Loss: 0.27</b></li>
-  <li><b>Test Data Accuracy: 97%</b></li> 
-  <li><b>Test Data Loss: 0.07</b></li> 
+  <li><b>Training Data Accuracy: 92%</b></li>
+  <li><b>Training Data Loss: 0.22</b></li>
+  <li><b>Test Data Accuracy: 94%</b></li> 
+  <li><b>Test Data Loss: 0.12</b></li> 
 </ul>
 <h2>Conclusion</h2>
 <p>In this project, I have created an LSTM based deep learning system that identifies seven emotions: Angry, Happy, Neutral, Sad, Fearful, Disgusted, and Suprised in human speech with an impressive accuracy of 97 percent.</p>
-                                                                                                                                                    
-
-  
+                                                                                                                                                      
