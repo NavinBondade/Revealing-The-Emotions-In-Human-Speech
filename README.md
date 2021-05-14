@@ -38,5 +38,5 @@
   <li><b>Test Data Loss: 0.12</b></li> 
 </ul>
 <h2>Conclusion</h2>
-<p>In this project, I have created an LSTM based deep learning system that identifies seven emotions: Angry, Happy, Neutral, Sad, Fearful, Disgusted, and Suprised in human speech with an impressive accuracy of 97 percent.</p>
+<p>In this project, I have created an LSTM based deep learning system that identifies seven emotions: Angry, Happy, Neutral, Sad, Fearful, Disgusted, and Suprised in human speech with an impressive accuracy of 94 percent.</p>
                                                                                                                                                       
