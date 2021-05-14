@@ -28,7 +28,7 @@
 <p>For capturing the emotions hidden within the speech, I have first used the MFCCS method for feature extraction from the audio data. Then I have created a deep learning model that utilizes the LSTM and fully connected neuron layers at its core. The model consists of two LSTM layers and three dense layers. The LSTM layers help the model to learn and remember the long-term dependencies because of its three gate mechanics and the fully connected neuron layers perform the job of correctly predicting to which class of emotion does the audio belongs. </p>
 <p>All the layers use RELU as an activation function except the last dense layer that uses the softmax activation function that transforms the previous layer output between 0 and 1, so that they can be interpreted as probabilities. For regularization and avoiding overfitting of the model batch normalization and dropout layers are used in the model.<p>
 <h2>Model Training</h2>   
-<img src="https://github.com/NavinBondade/Revealing-The-Emotions-In-Human-Speech/blob/main/Graphs%20and%20Pictures/loss%20%26%20accuracy.jpg">
+<img src="https://github.com/NavinBondade/Revealing-The-Emotions-In-Human-Speech/blob/main/Graphs%20and%20Pictures/loss-accuracy.png">
 <p>The model was get trained for 33 epochs. During training, the model uses Stochastic Gradient Descent as an optimizer with a learning rate of 0.001 and momentum of 0.9 for optimally performing backpropagation. The model uses categorical cross-entropy as the loss function to penalize the model more when it makes a false prediction.</p>
 <h2>Model Evaluation</h2>
 <ul>
