@@ -19,8 +19,9 @@
 <br>
 <img src="https://github.com/NavinBondade/Revealing-The-Emotions-In-Human-Speech/blob/main/Graphs%20and%20Pictures/Chromagram%20For%20All%207%20Different%20Types%20Of%20Emotions.png">
 <h2>Target Class Distribution</h2>
+<p align="center"> 
 <img src="https://github.com/NavinBondade/Revealing-The-Emotions-In-Human-Speech/blob/main/Graphs%20and%20Pictures/Target%20Class%20Distribution.png">
-<br>
+</p><br>
 <p align="center"> 
 <img src="https://github.com/NavinBondade/Revealing-The-Emotions-In-Human-Speech/blob/main/Graphs%20and%20Pictures/Target%20Distribution%20In%20Percentage.png">
 </p>      
