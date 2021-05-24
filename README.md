@@ -1,6 +1,6 @@
 # Revealing The Emotions In Speech With Deep Learning
 <img src="https://static01.nyt.com/images/2013/10/13/business/13-TECHNO-SUB/13-TECHNO-SUB-superJumbo.jpg" width="950" height="520">
-<p>Humans tend to convey the messages through speech but not just using the spoken word but also with how the message has been delivered. The same message spoken with the slight change in tone and the pitch can convey a very different meaning. In this project, I have created a deep learning system that is capable of capturing these slight changes in human speech and determining what emotions have been conveyed through the speech. The model has skills of identifying seven emotions in a speech which are Angry, Happy, Neutral, Sad, Fearful, Disgusted, and Suprised.</p>
+<p>Humans tend to convey the messages through speech but not just using the spoken word but also with how the message has been delivered. The same message spoken with a slightly different change in tone and the pitch can convey a very different meaning than previous one. In this project, I have created a deep learning system that is capable of capturing these slight changes in human speech and determining what emotions have been conveyed through the speech. The model has skills of identifying seven emotions in a human speech which are Angry, Happy, Neutral, Sad, Fearful, Disgusted, and Suprised.</p>
 <h2>Libraries Used</h2>
 <ul>
   <li>Tensorflow</li>
