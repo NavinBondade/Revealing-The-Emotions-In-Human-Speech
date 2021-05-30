@@ -1,4 +1,9 @@
 # Revealing The Emotions In Speech With Deep Learning
+<p align="center">
+<a href="https://nbviewer.jupyter.org/github/NavinBondade/Revealing-The-Emotions-In-Human-Speech/blob/main/Notebook/Recognizing_The_Emotions_in_Speech.ipynb" target="_blank">
+  <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
+</a>
+</p>
 <img src="https://static01.nyt.com/images/2013/10/13/business/13-TECHNO-SUB/13-TECHNO-SUB-superJumbo.jpg" width="950" height="520">
 <p>Humans tend to convey the messages through speech but not just using the spoken word but also with how the message has been delivered. The same message spoken with a slightly different change in tone and the pitch can convey a very different meaning than previous one. In this project, I have created a deep learning system that is capable of capturing these slight changes in human speech and determining what emotions have been conveyed through the speech. The model has skills of identifying seven emotions in a human speech which are Angry, Happy, Neutral, Sad, Fearful, Disgusted, and Suprised.</p>
 <h2>Libraries Used</h2>
