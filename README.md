@@ -47,6 +47,7 @@ The training process utilized the categorical cross-entropy loss function to eva
 
 Overall, the combination of multiple training epochs, the SGD optimizer with carefully chosen learning rate and momentum, and the categorical cross-entropy loss function collectively contributed to a robust and effective training regimen. This setup enabled the model to systematically reduce prediction errors and enhance its ability to generalize from the training data to unseen data, thereby achieving reliable and accurate performance in its designated tasks.</p>
 <h2>Model Evaluation</h2>
+<p>The model demonstrates strong performance, achieving a training accuracy of 92% with a corresponding loss of 0.22, indicating it has effectively learned the patterns in the training data. Moreover, its test accuracy of 94% and reduced loss of 0.12 suggest that the model generalizes well to unseen data, performing even better on the test set. The lower loss on the test data, combined with the higher accuracy, underscores the model's robustness and ability to make precise predictions without overfitting, making it well-suited for real-world applications.</p>
 <ul>
   <li><b>Training Data Accuracy: 92%</b></li>
   <li><b>Training Data Loss: 0.22</b></li>
