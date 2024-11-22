@@ -7,7 +7,7 @@
 <img src="https://static01.nyt.com/images/2013/10/13/business/13-TECHNO-SUB/13-TECHNO-SUB-superJumbo.jpg" width="950" height="520">
 <p>HHuman communication extends beyond words; it also encompasses the nuances of speech, such as tone and pitch, which can dramatically alter the meaning of a message. Recognizing the complexity of this form of communication, I have developed a sophisticated deep-learning system designed to capture these subtle variations in human speech. This system is capable of accurately identifying and interpreting the emotions conveyed through spoken language. The model is trained to detect seven distinct emotions: Angry, Happy, Neutral, Sad, Fearful, Disgusted, and Surprised. By analyzing these emotional cues, the system provides a deeper understanding of the underlying sentiment in speech, making it a valuable tool for applications in areas such as customer service, mental health, and human-computer interaction.
 </p>
-<h2>Libraries Used</h2>
+<h2>Libraries Used</h2> 
 <ul>
   <li>Tensorflow</li>
   <li>Keras</li>
